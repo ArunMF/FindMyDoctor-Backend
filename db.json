@@ -1,0 +1,308 @@
+{
+    "doctors":[
+        {
+            "id": 1,
+            "name": "Dr. Alice",
+            "photo_url": "https://wallpapercave.com/wp/wp2655100.jpg",
+            "specialization": "Dentist",
+            "hospital": "Smiles Dental Care Centre",
+            "city":"Thrissur",
+            "state":"Kerala",
+            "pincode":"645263",
+            "available": {
+              "Monday": "9:30 am - 4:00 pm",
+              "Tuesday":"Not available",
+              "Wednesday": "9:30 am - 4:00 pm",
+              "Thursday":"Not available",
+              "Friday": "9:30 am - 4:00 pm",
+              "Saturday": "9:30 am - 4:00 pm"
+            },
+            "reviews": [
+              {
+                "name": "Steve",
+                "date": "October 26, 2016",
+                "rating": 4.5,
+                "comments": "Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2016",
+                "rating": 3.5,
+                "comments": "This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!"
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2016",
+                "rating": 4.9,
+                "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Dr. Joseph P J",
+            "photo_url": "https://irp-cdn.multiscreensite.com/d8037e1a/dms3rep/multi/Functional+Medicine+Doctor+Chicago.jpeg",
+            "specialization": "Radiologist",
+            "hospital": "Apollo Hospital",
+            "city":"Ernakulam",
+            "state":"Kerala",
+            "pincode":"645263",
+            "available": {
+              "Monday": "8:30 am - 2:00 pm",
+              "Tuesday": "8:30 am - 2:00 pm",
+              "Wednesday": "8:30 am - 2:00 pm",
+              "Thursday":"Not available",
+              "Friday":"Not available",
+              "Saturday": "8:30 am - 12:00 pm"
+            },
+            "reviews": [
+              {
+                "name": "Steve",
+                "date": "October 26, 2016",
+                "rating": 4.5,
+                "comments": "Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2016",
+                "rating": 3.5,
+                "comments": "This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!"
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2016",
+                "rating": 4.9,
+                "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Dr. David P Kurian",
+            "photo_url": "https://external-preview.redd.it/1_uNgs7VqZz3cheyFNl63ITkVzVV3otra1rkfbOWhyU.jpg?auto=webp&s=9cee3c90610f6be0c4a0db4f17f0ec64e6c36e75",
+            "specialization": "Cardiologist",
+            "hospital": "Apollo Hospital",
+            "city":"Ernakulam",
+            "state":"Kerala",
+            "pincode":"645263",
+            "available": {
+              "Monday": "10:30 am - 3:00 pm",
+              "Tuesday": "10:30 am - 3:00 pm",
+              "Wednesday": "10:30 am - 3:00 pm",
+              "Thursday": "10:30 am - 3:00 pm",
+              "Friday": "10:30 am - 3:00 pm",
+              "Saturday": "10:30 am - 3:00 pm"
+            },
+            "reviews": [
+              {
+                "name": "Steve",
+                "date": "October 26, 2016",
+                "rating": 4.5,
+                "comments": "Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2016",
+                "rating": 3.5,
+                "comments": "This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!"
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2016",
+                "rating": 4.9,
+                "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Dr. George Kora",
+            "photo_url": "https://ik.imagekit.io/h1pfsvzlsf/suboxonedoctor/uploads/news-pictures/2-new-york-blog-post-image-20230313234428.jpg",
+            "specialization": "Cardiologist",
+            "hospital": "Little Flower Hospital",
+            "city":"Angamaly",
+            "state":"Kerala",
+            "pincode":"645263",
+            "available": {
+              "Monday": "9:30 am - 4:00 pm",
+              "Tuesday":"Not available",
+              "Wednesday": "9:30 am - 4:00 pm",
+              "Thursday":"Not available",
+              "Friday": "9:30 am - 4:00 pm",
+              "Saturday": "9:30 am - 4:00 pm"
+            },
+            "reviews": [
+              {
+                "name": "Steve",
+                "date": "October 26, 2016",
+                "rating": 4.5,
+                "comments": "Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2016",
+                "rating": 3.5,
+                "comments": "This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!"
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2016",
+                "rating": 4.9,
+                "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Dr. Mathai",
+            "photo_url": "https://th.bing.com/th/id/OIP._Bm7z_5Y4fd5g9cQiXdSzgHaE7?pid=ImgDet&rs=1",
+            "specialization": "Pediatrician",
+            "hospital": "St. James Hospital",
+            "city":"Chalakudy",
+            "state":"Kerala",
+            "pincode":"645263",
+            "available": {
+              "Monday": "9:30 am - 4:00 pm",
+              "Tuesday": "9:30 am - 4:00 pm",
+              "Wednesday": "9:30 am - 4:00 pm",
+              "Thursday": "9:30 am - 4:00 pm",
+              "Friday": "9:30 am - 4:00 pm",
+              "Saturday": "9:30 am - 4:00 pm"
+            },
+            "reviews": [
+              {
+                "name": "Steve",
+                "date": "October 26, 2016",
+                "rating": 4.5,
+                "comments": "Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2016",
+                "rating": 3.5,
+                "comments": "This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!"
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2016",
+                "rating": 4.9,
+                "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Dr. Mersy Jose",
+            "photo_url": "https://static.spacecrafted.com/d253d8abc6c7418fa62aff27fa62aa58/i/b3552f49374141d786642657f58f9ce2/1/4SoifmQpDrHbZJ6Vx93rk/Pharmacy%20Image%252823%2529.jpg",
+            "specialization": "Psychiatrist",
+            "hospital": "Apollo Hospital",
+            "city":"Ernakulam",
+            "state":"Kerala",
+            "pincode":"645263",
+            "available": {
+              "Monday": "9:30 am - 4:00 pm",
+              "Tuesday":"Not available",
+              "Wednesday": "9:30 am - 4:00 pm",
+              "Thursday":"Not available",
+              "Friday": "9:30 am - 4:00 pm",
+              "Saturday": "9:30 am - 4:00 pm"
+            },
+            "reviews": [
+              {
+                "name": "Steve",
+                "date": "October 26, 2016",
+                "rating": 4.5,
+                "comments": "Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2016",
+                "rating": 3.5,
+                "comments": "This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!"
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2016",
+                "rating": 4.9,
+                "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Dr. Jobin J J",
+            "photo_url": "https://careerswiki.com/wp-content/uploads/2018/03/Depositphotos_51582367_l-2015-1024x683.jpg",
+            "specialization": "Dentist",
+            "hospital": "Smiles Dental Care Centre",
+            "city":"Thrissur",
+            "state":"Kerala",
+            "pincode":"645263",
+            "available": {
+              "Monday": "9:30 am - 4:00 pm",
+              "Tuesday": "9:30 am - 4:00 pm",
+              "Wednesday": "9:30 am - 4:00 pm",
+              "Thursday": "9:30 am - 4:00 pm",
+              "Friday": "9:30 am - 4:00 pm",
+              "Saturday": "9:30 am - 4:00 pm"
+            },
+            "reviews": [
+              {
+                "name": "Steve",
+                "date": "October 26, 2016",
+                "rating": 4.5,
+                "comments": "Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2016",
+                "rating": 3.5,
+                "comments": "This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!"
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2016",
+                "rating": 4.9,
+                "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Dr. Bibin B B",
+            "photo_url": "https://wallpapercave.com/wp/wp2655100.jpg",
+            "specialization": "Urologist",
+            "hospital": "Little Flower Hospital",
+            "city":"Ernakulam",
+            "state":"Kerala",
+            "pincode":"645263",
+            "available": {
+              "Monday": "9:30 am - 4:00 pm",
+              "Tuesday":"Not available",
+              "Wednesday": "9:30 am - 4:00 pm",
+              "Thursday":"Not available",
+              "Friday": "9:30 am - 4:00 pm",
+              "Saturday": "9:30 am - 4:00 pm"
+            },
+            "reviews": [
+              {
+                "name": "Steve",
+                "date": "October 26, 2016",
+                "rating": 4.5,
+                "comments": "Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2016",
+                "rating": 3.5,
+                "comments": "This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!"
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2016",
+                "rating": 4.9,
+                "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
+              }
+            ]
+          }
+    ]
+}
